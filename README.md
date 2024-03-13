@@ -55,3 +55,20 @@ Todo: Buatlah halaman /profile yang menampilkan isi biodata anda dengan mengguna
 
 Profile
 ![Screenshot](assets-report/03.png)
+
+### Praktikum 2
+
+Blogs
+![Screenshot](assets-report/04.png)
+
+First
+![Screenshot](assets-report/05.png)
+
+Todo: Lengkapi function component pada /blogs/second/page.tsx
+
+Second
+![Screenshot](assets-report/06.png)
+
+Pertanyaan: Apa kekurangan yang mungkin terjadi jika menggunakan pendekatan pada Praktikum 2 untuk menangani routing?
+
+Pemeliharaan yang sulit dan navigasi yang kurang fleksibel.
