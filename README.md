@@ -86,3 +86,18 @@ Todo 1: Perbaiki implementasi Praktikum 2 menggunakan Dynamic Routes
 
 Todo 2: Dengan menggunakan konsep Nested Routes dan Dynamic Routes, buatlah halaman dengan routing /products/[productId]/reviews/[reviewId]
 [Screenshot](assets-report/10.png)
+
+### Praktikum 3
+
+Home
+[Screenshot](assets-report/11.png)
+
+Todo: Tambahkan link yang sebelumnya anda telah kerjakan!
+Blog
+[Screenshot](assets-report/12.png)
+
+Product
+[Screenshot](assets-report/13.png)
+
+Review
+[Screenshot](assets-report/14.png)
