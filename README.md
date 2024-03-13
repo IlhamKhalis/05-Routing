@@ -72,3 +72,17 @@ Second
 Pertanyaan: Apa kekurangan yang mungkin terjadi jika menggunakan pendekatan pada Praktikum 2 untuk menangani routing?
 
 Pemeliharaan yang sulit dan navigasi yang kurang fleksibel.
+
+### Praktikum 3
+
+Products
+![Screenshot](assets-report/07.png)
+
+ProductsId
+![Screenshot](assets-report/08.png)
+
+Todo 1: Perbaiki implementasi Praktikum 2 menggunakan Dynamic Routes
+![Screenshot](assets-report/09.png)
+
+Todo 2: Dengan menggunakan konsep Nested Routes dan Dynamic Routes, buatlah halaman dengan routing /products/[productId]/reviews/[reviewId]
+[Screenshot](assets-report/10.png)
